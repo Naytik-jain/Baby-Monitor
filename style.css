@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+border:2px maroon solid;
+box-shadow : 5px 5px 5px gray;
+margin-top: 3px;
+background-color: lightseagreen;
+}
+
+#status
+{
+
+box-shadow: 5px 5px 5px gray;
+font-size: x-large;
+border: 2px red solid;
+}
+body{
+    background-size: cover;
+    
+}
+canvas{
+    background-color: lightskyblue;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    border:10px ridge ;
+    border-style:ridge;
+}
